@@ -1,0 +1,14 @@
+{
+    "raster_file":"./data/XXX.tif",
+    "db_params":
+    {
+        "host":"XXX",
+        "user_name":"XXX",
+        "password":"XXX",
+        "db_name":"XXX",
+        "port":"XXX",
+        "schema":"XXX",
+        "raster_table_name":"XXX",
+        "points_table_name":"XXX"
+    }
+}
